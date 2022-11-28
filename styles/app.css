@@ -1,0 +1,87 @@
+body {
+    background-color: #AEB4AA;
+    font-family: 'Alexandria', sans-serif;
+}
+
+.carousel-item img {
+    border-radius: 20px;
+    height: 500px;
+}
+
+#flex-container a img {
+    padding: 10px;
+    height: 180px;
+}
+
+#section {
+    text-align: center;
+    background-color: #EEEAE1;
+    padding: 20px;
+    font-size: larger;
+}
+
+#offer {
+    border-color: #959490;
+    border-width: 1px;
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 3rem;
+}
+
+#offer-list {
+    list-style: circle;
+    list-style-position: inside;
+}
+
+#services {
+    background-color: #7D8173;
+    font-size: larger;
+    color: whitesmoke;
+}
+
+.blockquote {
+    font-weight: lighter;
+    font-style: italic;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+#location {
+    margin-top: 50px;
+}
+
+#location .icon {
+    height: 50px;
+    width: 50px;
+}
+
+#location .icon svg {
+    height: 100%;
+    width: 100%;
+}
+
+#location h2 {
+    border-left: solid;
+    padding-left: 10px;
+}
+
+footer {
+    background-color: #EEEAE1;
+}
+
+#logo {
+    padding-right: 10px;
+    height: 100%;
+}
+
+#logo-text {
+    border-width: 1px;
+    border-left: solid;
+    padding-left: 10px;
+}
+
+#logo-text p {
+    font-size: larger;
+}
